@@ -5,7 +5,7 @@
     "style": "minimal",
     "palette": "blue",
     "mode": "light",
-    "base_font": "times",
+    "base_font": "headline",
     "header": {
         "title": "App",
         "logo": "images/logo.svg",
