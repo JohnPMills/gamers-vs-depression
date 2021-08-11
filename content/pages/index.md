@@ -35,7 +35,9 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
   - title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: >-
+      We will only use your email to share all our awesome work and invite you
+      to get involved. We will not sell your data to third-parties. .
     features: []
     feature_padding_vert: medium
     align: center
