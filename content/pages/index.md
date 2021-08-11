@@ -2,7 +2,7 @@
 title: Home
 sections:
   - title: Coming soon
-    subtitle: lorem-ipsum
+    subtitle: Gamers vs Depression
     title_align: left
     content: >-
       ## Lorem ipsum
