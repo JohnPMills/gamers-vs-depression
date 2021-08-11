@@ -18,7 +18,8 @@ sections:
       - input_type: email
         name: sign-up
         default_value: Please enter your email address here
-        options: []
+        options:
+          - lorem-ipsum
         is_required: true
         type: form_field
     submit_label: Let's Play!
