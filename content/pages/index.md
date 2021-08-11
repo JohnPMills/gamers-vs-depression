@@ -49,6 +49,9 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/movember.png
+    subtitle: >-
+      We will not sell your data to third-parties. We will share all our awesome
+      work and invite you to get involved.
 seo:
   title: Stackbit App Theme
   description: The preview of the App theme
