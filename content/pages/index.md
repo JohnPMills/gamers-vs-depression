@@ -1,21 +1,6 @@
 ---
 title: Home
 sections:
-  - actions: []
-    image_alt: Movember Funded Project
-    media_position: top
-    media_width: fifty
-    align: center
-    padding_top: none
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: hero_section
-    image: images/movember.png
   - title: Gamers vs Depression
     subtitle: COMING SOON
     title_align: center
@@ -41,6 +26,21 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: form_section
+  - actions: []
+    image_alt: Movember Funded Project
+    media_position: top
+    media_width: fifty
+    align: center
+    padding_top: none
+    padding_bottom: medium
+    has_border: false
+    background_color: none
+    background_image_opacity: 0
+    background_image_size: cover
+    background_image_position: center center
+    background_image_repeat: no-repeat
+    type: hero_section
+    image: images/movember.png
 seo:
   title: Stackbit App Theme
   description: The preview of the App theme
