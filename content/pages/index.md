@@ -18,7 +18,7 @@ sections:
       - input_type: email
         name: lorem-ipsum
         label: lorem-ipsum
-        default_value: lorem-ipsum
+        default_value: Please enter your email address here
         options: []
         is_required: true
         type: form_field
