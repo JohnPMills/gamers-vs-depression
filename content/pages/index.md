@@ -3,7 +3,7 @@ title: Home
 sections:
   - title: Coming soon
     subtitle: Gamers vs Depression
-    title_align: left
+    title_align: center
     content: >-
       ## Lorem ipsum
 
