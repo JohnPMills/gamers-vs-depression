@@ -1,7 +1,7 @@
 ---
 title: Home
 sections:
-  - title: Coming soon
+  - title: Gamers vs Depression
     subtitle: Gamers vs Depression
     title_align: center
     content_align: center
