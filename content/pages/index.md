@@ -1,35 +1,6 @@
 ---
 title: Home
 sections:
-  - title: Gamers vs Depression
-    subtitle: COMING SOON
-    title_align: center
-    content_align: center
-    form_position: bottom
-    form_width: sixty
-    form_layout: inline
-    enable_card: false
-    form_id: sign-up
-    form_action: /thank-you
-    form_fields:
-      - input_type: email
-        name: sign-up
-        label: sign-up
-        default_value: Enter your email address here
-        options: []
-        is_required: true
-        type: form_field
-    submit_label: Sign up
-    align_vert: top
-    padding_top: large
-    padding_bottom: medium
-    has_border: false
-    background_color: none
-    background_image_opacity: 0
-    background_image_size: cover
-    background_image_position: center center
-    background_image_repeat: no-repeat
-    type: form_section
   - actions: []
     image_alt: Movember Funded Project
     media_position: top
