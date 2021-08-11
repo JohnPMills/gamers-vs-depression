@@ -31,7 +31,7 @@ sections:
     background_image_repeat: no-repeat
     type: form_section
   - actions: []
-    image_alt: lorem-ipsum
+    image_alt: Movember Funded Project
     media_position: top
     media_width: fifty
     align: left
