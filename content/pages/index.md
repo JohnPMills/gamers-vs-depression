@@ -4,13 +4,10 @@ sections:
   - title: Gamers vs Depression
     subtitle: COMING SOON
     title_align: center
-    content: >
+    content: >+
       **For the latest news on the project, please enter your email address
       below.**
 
-
-      We will not sell your data to third-parties. We will share all our awesome
-      work and invite you to get involved.
     content_align: center
     form_position: bottom
     form_width: sixty
