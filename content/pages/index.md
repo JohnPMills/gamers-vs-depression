@@ -19,17 +19,9 @@ sections:
   - title: Gamers vs Depression
     subtitle: COMING SOON
     title_align: center
-    content: >-
-      ## Lorem ipsum
-
-
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-      - Lorem ipsum
-
-      - dolor sit amet
+    content: >
+      For the latest news on the project, please enter your email address
+      below. 
     content_align: left
     form_position: bottom
     form_width: fifty
