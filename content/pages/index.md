@@ -4,7 +4,7 @@ sections:
   - title: Coming soon
     subtitle: Gamers vs Depression
     title_align: center
-    content_align: left
+    content_align: center
     form_position: bottom
     form_width: sixty
     form_layout: stacked
