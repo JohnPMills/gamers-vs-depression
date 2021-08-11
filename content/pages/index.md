@@ -15,7 +15,7 @@ sections:
       - input_type: text
         name: sign-up
         label: lorem-ipsum
-        default_value: lorem-ipsum
+        default_value: Enter your email address here
         options: []
         is_required: false
         type: form_field
