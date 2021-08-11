@@ -107,7 +107,6 @@
     },
     "domain": "https://gamersvsdepression.org",
     "header": {
-        "title": "lorem-ipsum",
         "logo_alt": "lorem-ipsum",
         "has_primary_nav": true,
         "primary_nav_links": [],
