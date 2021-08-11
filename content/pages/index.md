@@ -9,9 +9,8 @@ sections:
       below.**
 
 
-      What *we will do* with your email is send you updates about the project
-      and how you can get involved. What *we won't do* with your email is sell
-      it to third-parties!
+      We will not sell your data to third-parties. We will share all our awesome
+      work and invite you to get involved.
     content_align: center
     form_position: bottom
     form_width: sixty
