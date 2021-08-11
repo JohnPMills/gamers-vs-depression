@@ -21,7 +21,7 @@ sections:
         options: []
         is_required: true
         type: form_field
-    submit_label: Sign up
+    submit_label: Let's Play!
     align_vert: top
     padding_top: medium
     padding_bottom: medium
