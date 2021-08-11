@@ -7,7 +7,7 @@ sections:
     content: >
       For the latest news on the project, please enter your email address
       below. 
-    content_align: left
+    content_align: center
     form_position: bottom
     form_width: fifty
     form_layout: stacked
