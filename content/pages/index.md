@@ -19,7 +19,7 @@ sections:
         name: sign-up
         default_value: Please enter your email address here
         options:
-          - 'Please be aware that '
+          - 'We will never sell or share your personal data with '
         is_required: true
         type: form_field
     submit_label: Let's Play!
