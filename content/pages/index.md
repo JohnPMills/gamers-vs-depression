@@ -8,7 +8,7 @@ sections:
     form_position: bottom
     form_width: sixty
     form_layout: inline
-    enable_card: false
+    enable_card: true
     form_id: lorem-ipsum
     form_action: lorem-ipsum
     form_fields: []
