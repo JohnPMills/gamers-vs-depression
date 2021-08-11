@@ -8,7 +8,7 @@ sections:
     form_position: bottom
     form_width: sixty
     form_layout: stacked
-    enable_card: true
+    enable_card: false
     form_id: sign-up
     form_action: /thank-you
     form_fields:
