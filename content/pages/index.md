@@ -9,7 +9,7 @@ sections:
     form_width: sixty
     form_layout: inline
     enable_card: true
-    form_id: lorem-ipsum
+    form_id: Sign up
     form_action: lorem-ipsum
     form_fields: []
     submit_label: lorem-ipsum
