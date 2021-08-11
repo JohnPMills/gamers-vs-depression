@@ -9,11 +9,9 @@ sections:
       below.**
 
 
-      > What we will do with your email is send you updates about the project
-      and how you can get involved.
-
-
-      > What we won't do with your email is sell it to third-parties!
+      What *we will do* with your email is send you updates about the project
+      and how you can get involved. What *we won't do* with your email is sell
+      it to third-parties!
     content_align: center
     form_position: bottom
     form_width: sixty
