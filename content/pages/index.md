@@ -10,7 +10,7 @@ sections:
     form_layout: inline
     enable_card: true
     form_id: Sign up
-    form_action: sign-uo
+    form_action: sign-up
     form_fields: []
     submit_label: lorem-ipsum
     align_vert: top
