@@ -16,7 +16,7 @@ sections:
     form_action: /thank-you
     form_fields:
       - input_type: email
-        name: lorem-ipsum
+        name: sign-up
         default_value: Please enter your email address here
         options: []
         is_required: true
