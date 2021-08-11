@@ -12,7 +12,7 @@ sections:
     form_id: sign-up
     form_action: /thank-you
     form_fields:
-      - input_type: text
+      - input_type: email
         name: sign-up
         label: lorem-ipsum
         default_value: Enter your email address here
