@@ -17,7 +17,7 @@ sections:
         label: lorem-ipsum
         default_value: Enter your email address here
         options: []
-        is_required: false
+        is_required: true
         type: form_field
     submit_label: Sign up
     align_vert: top
