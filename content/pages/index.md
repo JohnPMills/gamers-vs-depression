@@ -5,15 +5,15 @@ sections:
     subtitle: COMING SOON
     title_align: center
     content: >
-      #### For the latest news on the project, please enter your email address
-      below.
+      **For the latest news on the project, please enter your email address
+      below.**
 
 
-      What we will do with your email is send you updates about the project and
-      how you can get involved.
+      *   What we will do with your email is send you updates about the project
+      and how you can get involved.
 
 
-      What we won't do with your email is sell it to third-parties!
+      *   What we won't do with your email is sell it to third-parties!
     content_align: center
     form_position: bottom
     form_width: sixty
