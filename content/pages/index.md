@@ -17,7 +17,6 @@ sections:
     form_fields:
       - input_type: email
         name: lorem-ipsum
-        label: Join the Team
         default_value: Please enter your email address here
         options: []
         is_required: true
