@@ -34,7 +34,7 @@ sections:
     image_alt: Movember Funded Project
     media_position: top
     media_width: fifty
-    align: left
+    align: center
     padding_top: none
     padding_bottom: medium
     has_border: false
