@@ -17,7 +17,7 @@ sections:
     type: hero_section
     image: images/movember.png
   - title: Gamers vs Depression
-    subtitle: lorem-ipsum
+    subtitle: COMING SOON
     title_align: left
     content: >-
       ## Lorem ipsum
