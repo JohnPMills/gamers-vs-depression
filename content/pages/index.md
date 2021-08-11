@@ -5,7 +5,8 @@ sections:
     subtitle: COMING SOON
     title_align: center
     content: >
-      For the latest news on the project, please enter your email address below.
+      #### For the latest news on the project, please enter your email address
+      below.
 
 
       What we will do with your email is send you updates about the project and
