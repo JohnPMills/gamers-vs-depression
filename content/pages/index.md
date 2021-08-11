@@ -16,7 +16,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/movember.png
-  - title: lorem-ipsum
+  - title: Gamers vs Depression
     subtitle: lorem-ipsum
     title_align: left
     content: >-
