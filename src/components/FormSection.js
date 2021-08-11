@@ -18,7 +18,7 @@ export default class FormSection extends React.Component {
         let align_y = _.get(section, 'align_vert', null) || 'top';
         let title_align_x = _.get(section, 'title_align', null) || 'left';
         let content_align_x = _.get(section, 'content_align', null) || 'left';
-        let has_text = false;
+        let has_text = true;
         let form_layout = _.get(section, 'form_layout', null) || 'stacked';
         let form_width = _.get(section, 'form_width', null) || 'fifty';
         let form_pos = _.get(section, 'form_position', null) || 'bottom';
