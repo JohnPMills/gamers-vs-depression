@@ -18,7 +18,7 @@ sections:
     image: images/movember.png
   - title: Gamers vs Depression
     subtitle: COMING SOON
-    title_align: left
+    title_align: center
     content: >-
       ## Lorem ipsum
 
