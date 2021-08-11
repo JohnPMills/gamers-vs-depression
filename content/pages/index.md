@@ -7,7 +7,7 @@ sections:
     content_align: center
     form_position: bottom
     form_width: sixty
-    form_layout: stacked
+    form_layout: inline
     enable_card: false
     form_id: sign-up
     form_action: /thank-you
